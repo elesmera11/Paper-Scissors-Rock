@@ -5,7 +5,7 @@ computer, running the same command will start both UCFKs if they have
 both been reset.
 
 Authors: 
-    Kate (elesmera11) and Jack (jackodsteel)
+    Kate (elesmera11) and Jack (jackodsteel) for ENCE260 (2017).
 Date: 
     12 Oct 2017
 
